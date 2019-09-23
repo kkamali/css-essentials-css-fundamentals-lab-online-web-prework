@@ -15,6 +15,10 @@ figure {
   text-align: center;
 }
 
+figcaption {
+  font-size: small; 
+}
+
 nav a {
   text-align: center;
   padding-left: 10px;
